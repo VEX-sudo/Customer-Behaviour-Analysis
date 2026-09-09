@@ -1,4 +1,4 @@
-# Customer-Behaviour-Analysis
+<img width="1457" height="781" alt="Screenshot 2026-09-09 093357" src="https://github.com/user-attachments/assets/6e2e8e29-e89c-406a-9196-6f97fac11a87" /><img width="1457" height="781" alt="Screenshot 2026-09-09 093357" src="https://github.com/user-attachments/assets/96e23c2d-27cf-47d6-bf38-cf2c7dc50b1a" /># Customer-Behaviour-Analysis
 End-to-end retail customer behaviour analysis using SQL, Python, Excel &amp; Power BI — segmentation, spending trends, and dashboard insights.
 
 **End-to-end retail customer behaviour analysis using SQL, Python, Excel, and Power BI — uncovering spending patterns, customer segments, and revenue drivers from 3,900 transactions.**
@@ -224,7 +224,8 @@ DAX measures drive the KPI cards and the revenue/sales aggregations shown above,
 
 ### 📸 Dashboard Preview
 
-![Customer Behaviour Dashboard](screenshots/dashboard_preview.png)
+<img width="1457" height="781" alt="Screenshot 2026-09-09 093357" src="https://github.com/user-attachments/assets/3d691f99-68b9-499c-b899-b90b60ce18cb" />
+
 
 *(Screenshot to be added from the `.pbix` file — export as PNG and place in `screenshots/`.)*
 
@@ -349,6 +350,6 @@ DIVIDE(
 
 **Vedant Mahajan**
 LinkedIn: [https://www.linkedin.com/in/vedant-mahajan-687b563b1/]
-GitHub: [[INSERT GITHUB PROFILE](https://github.com/VEX-sudo)]
+GitHub: [https://github.com/VEX-sudo]
 
 ---
