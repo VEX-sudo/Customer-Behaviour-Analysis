@@ -138,7 +138,7 @@ Using `pandas`, the notebook covers:
 - Category and gender breakdowns
 - Post-cleaning validation of the feature-engineered columns
 
-> Full detail is available in [`python/Customer_Shopping_Behavior_Analysis.ipynb`](python/Customer_Shopping_Behavior_Analysis.ipynb).
+> Full detail is available in [`Customer_Data_Preprocessing.ipynb`](Customer_Data_Preprocessing.ipynb).
 
 ---
 
