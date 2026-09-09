@@ -226,8 +226,6 @@ DAX measures drive the KPI cards and the revenue/sales aggregations shown above,
 <img width="1457" height="781" alt="Screenshot 2026-09-09 093357" src="https://github.com/user-attachments/assets/3d691f99-68b9-499c-b899-b90b60ce18cb" />
 
 
-*(Screenshot to be added from the `.pbix` file — export as PNG and place in `screenshots/`.)*
-
 ---
 
 ## 📐 Data Model
@@ -348,7 +346,8 @@ DIVIDE(
 ## 👨‍💻 Author
 
 **Vedant Mahajan**
-LinkedIn: [https://www.linkedin.com/in/vedant-mahajan-687b563b1/]
-GitHub: [https://github.com/VEX-sudo]
+- LinkedIn: [https://www.linkedin.com/in/vedant-mahajan-687b563b1/]
+
+- GitHub: [https://github.com/VEX-sudo]
 
 ---
