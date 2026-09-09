@@ -183,7 +183,7 @@ FROM customer_type
 GROUP BY customer_segment;
 ```
 
-The full set of 10 queries — covering revenue by gender, high-spending discount users, top-rated products, shipping-type comparison, subscriber spend, discount-dependent products, customer segmentation, top products per category, repeat-buyer subscription rates, and revenue by age group — is in [`sql/customer_analysis_queries.sql`](sql/customer_analysis_queries.sql).
+The full set of 10 queries — covering revenue by gender, high-spending discount users, top-rated products, shipping-type comparison, subscriber spend, discount-dependent products, customer segmentation, top products per category, repeat-buyer subscription rates, and revenue by age group — is in [`SQL_QUERIES.sql`](SQL_QUERIES.sql).
 
 ---
 
