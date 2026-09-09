@@ -1,7 +1,6 @@
-<img width="1457" height="781" alt="Screenshot 2026-09-09 093357" src="https://github.com/user-attachments/assets/6e2e8e29-e89c-406a-9196-6f97fac11a87" /><img width="1457" height="781" alt="Screenshot 2026-09-09 093357" src="https://github.com/user-attachments/assets/96e23c2d-27cf-47d6-bf38-cf2c7dc50b1a" /># Customer-Behaviour-Analysis
-End-to-end retail customer behaviour analysis using SQL, Python, Excel &amp; Power BI — segmentation, spending trends, and dashboard insights.
+# Customer-Behaviour-Analysis
 
-**End-to-end retail customer behaviour analysis using SQL, Python, Excel, and Power BI — uncovering spending patterns, customer segments, and revenue drivers from 3,900 transactions.**
+**A full data-analytics pipeline turning 3,900 retail transactions into customer segments, spending patterns, and an interactive Power BI dashboard.**
 
 ---
 
